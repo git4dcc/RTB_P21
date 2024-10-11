@@ -29,7 +29,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my
 
 ## PCB
 - 2-layer PCB, FR4, 1.6mm
-- Socket: 2x Next18
+- 4x NEM651 Decoder Sockets
 
 ## Kicad
 [Schematic](doc/P24_schematic.pdf) | [Layout](doc/P24_layout.pdf) | [Gerber](gerber)
