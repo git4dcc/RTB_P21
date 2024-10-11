@@ -3,7 +3,7 @@
 [![Kicad_Libs](https://img.shields.io/badge/Kicad_Libs-29C7FF)](https://github.com/git4dcc/RTB_SamacSys)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
 
-This P24 module is a Next18 socket decoder test board. It holds two independent Next18 sockets and at both ends the DCC signal is fed in and out for daisy chaining multiple PCBs.
+This P21 module is a quad NEM651 socket decoder test board. It holds four independent NEM651 sockets and at both ends the DCC signal is fed in and out for daisy chaining multiple PCBs.
 
 <details>
 <summary>See also</summary>
@@ -29,7 +29,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my
 
 ## PCB
 - 2-layer PCB, FR4, 1.6mm
-- 4x NEM651 Decoder Sockets
+- 4x NEM651 decoder sockets
 
 ## Kicad
 [Schematic](doc/P24_schematic.pdf) | [Layout](doc/P24_layout.pdf) | [Gerber](gerber)
