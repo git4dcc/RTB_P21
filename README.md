@@ -25,7 +25,7 @@ This P24 module is a Next18 socket decoder test board. It holds two independent 
 # Hardware
 My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my recommendation, but with some experience handsoldering is also possible.
 
-<img src=https://rtb4dcc.de/wp-content/uploads/2024/07/un_E15_5.png>
+<img src=supplemental/images/P21_top_connect.jpg>
 
 ## PCB
 - 2-layer PCB, FR4, 1.6mm
@@ -43,6 +43,6 @@ My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my
 </details>
 
 # Images
-<img src=https://rtb4dcc.de/wp-content/uploads/2024/02/E13_3.jpg width=260> <img src=https://rtb4dcc.de/wp-content/uploads/2024/01/un_E13_example1.png width=260>
+<img src=supplemental/images/P21_usecase.jpg width=260>
 
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
