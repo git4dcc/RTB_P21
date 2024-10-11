@@ -1,4 +1,4 @@
-# RTB_P24
+# RTB_P21
 [![Real-time Bus (RTB)](https://img.shields.io/badge/RTB_Project-FF6699)](https://www.rtb4dcc.de)
 [![Kicad_Libs](https://img.shields.io/badge/Kicad_Libs-29C7FF)](https://github.com/git4dcc/RTB_SamacSys)
 [![Apache License 2.0](https://img.shields.io/badge/license-Apache%20License%202.0-lightgray)](https://www.apache.org/licenses/LICENSE-2.0)
@@ -8,7 +8,7 @@ This P24 module is a Next18 socket decoder test board. It holds two independent 
 <details>
 <summary>See also</summary>
 
-- [RTB_P21](https://github.com/git4dcc/RTB_P21)
+- [RTB_P24](https://github.com/git4dcc/RTB_P24)
 
 </details>
 
@@ -20,7 +20,7 @@ This P24 module is a Next18 socket decoder test board. It holds two independent 
 
 </details>
 
-<img src=supplemental/images/P24_main.jpg>
+<img src=supplemental/images/P21_main.jpg>
 
 # Hardware
 My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my recommendation, but with some experience handsoldering is also possible.
