@@ -787,4 +787,22 @@ Wire Wire Line
 	2600 5400 2600 4950
 Wire Wire Line
 	2400 5500 2700 5500
+Text Notes 4500 2800 0    50   ~ 0
+optional external Motor/Resistor
+Text Notes 4500 3650 0    50   ~ 0
+optional external Motor/Resistor
+Text Notes 4500 4500 0    50   ~ 0
+optional external Motor/Resistor
+Text Notes 4500 5350 0    50   ~ 0
+optional external Motor/Resistor
+Text Notes 3650 5800 0    50   ~ 0
+DCC in and out
+Text Notes 2150 2750 0    50   ~ 0
+Enable
+Text Notes 2150 3600 0    50   ~ 0
+Enable
+Text Notes 2150 4450 0    50   ~ 0
+Enable
+Text Notes 2150 5300 0    50   ~ 0
+Enable
 $EndSCHEMATC
