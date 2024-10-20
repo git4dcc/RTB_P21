@@ -15,15 +15,15 @@ This simple module is a quad NEM651 socket decoder test board and is part of my 
 <details>
 <summary>User Guides</summary>
 
-- User Guide - DE
-- User Guide - EN
+- User Guide - DE (to be done)
+- User Guide - EN (to be done)
 
 </details>
 
 <img src=supplemental/images/P21_main.jpg>
 
 # Hardware
-My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my recommendation, but with some experience handsoldering is also possible.
+My PCB layout uses SMD footprints with mainly 0603 parts. With some experience handsoldering is good to use.
 
 <img src=supplemental/images/P21_top_connect.jpg>
 
