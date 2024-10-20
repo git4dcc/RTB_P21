@@ -32,7 +32,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. Reflow soldering is my
 - 4x NEM651 decoder sockets
 
 ## Kicad
-[Schematic](doc/P24_schematic.pdf) | [Layout](doc/P24_layout.pdf) | [Gerber](gerber)
+[Schematic](doc/P21_schematic.pdf) | [Layout](doc/P21_layout.pdf) | [Gerber](gerber/P21_0.zip)
 
 <details>
 <summary>Dependency</summary>
