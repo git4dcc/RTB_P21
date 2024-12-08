@@ -8,7 +8,10 @@ This simple module is a quad [NEM 651](https://www.morop.org/downloads/nem/de/ne
 <details>
 <summary>See also</summary>
 
+- [RTB_D16](https://github.com/git4dcc/RTB_D16) (DCC Decoder)
+- [RTB_D20](https://github.com/git4dcc/RTB_D20) (DCC Decoder)
 - [RTB_P24](https://github.com/git4dcc/RTB_P24)
+- [RTB_P27](https://github.com/git4dcc/RTB_P27)
 
 </details>
 
