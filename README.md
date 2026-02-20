@@ -8,10 +8,10 @@ This simple module is a quad [NEM 651](https://www.morop.org/downloads/nem/de/ne
 <details>
 <summary>See also</summary>
 
-- [RTB_D16](https://github.com/git4dcc/RTB_D16) (DCC Decoder)
-- [RTB_D20](https://github.com/git4dcc/RTB_D20) (DCC Decoder)
-- [RTB_P24](https://github.com/git4dcc/RTB_P24)
-- [RTB_P27](https://github.com/git4dcc/RTB_P27)
+- [RTB_D16](/../../../../git4dcc/RTB_D16) (DCC Decoder)
+- [RTB_D20](/../../../../git4dcc/RTB_D20) (DCC Decoder)
+- [RTB_P24](/../../../../git4dcc/RTB_P24)
+- [RTB_P27](/../../../../git4dcc/RTB_P27)
 
 </details>
 
@@ -42,7 +42,7 @@ My PCB layout uses SMD footprints with mainly 0603 parts. With some experience h
 <summary>Dependency</summary>
 <br>
 
-:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](/../../../../git4dcc/RTB_SamacSys) in the same directory tree.
 
 </details>
 
